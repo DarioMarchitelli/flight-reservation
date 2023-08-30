@@ -1,6 +1,15 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/suhcjUE-)
-# Exam #2: "Posti aereo"
-## Student: s310030 MARCHITELLI DARIO
+
+## Flight reservation app
+
+![Screenshot](./img/Screenshot%201.png)
+![Screenshot](./img/Screenshot%202.png)
+![Screenshot](./img/Screenshot%203.png)
+![Screenshot](./img/Screenshot%204.png)
+![Screenshot](./img/Screenshot%205.png)
+![Screenshot](./img/Screenshot%206.png)
+![Screenshot](./img/Screenshot%207.png)
+![Screenshot](./img/Screenshot%208.png)
+![Screenshot](./img/Screenshot%209.png)
 
 ## React Client Application Routes
 
@@ -211,10 +220,6 @@
 - `NotLoggedIn` (in `NotLoggedIn.js`): viene utilizzato in sostituzione ad una pagina che necessita di un utente loggato, ma non c'è alcun utente loggato
 - `DefaultRoute` (in `DefaultRoute.js`): pagina di 404
 - `LoginForm` (in `LoginForm.js`): form per il login
-
-## Screenshot
-
-![Screenshot](./img/Screenshot 5.PNG)
 
 ## Users Credentials
 
